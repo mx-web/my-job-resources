@@ -18,7 +18,6 @@
 
 ## Colors
 
-- http://colovely.nofach.com/
 - [Chrome plug-in to generate color palette from images and websites](https://chrome.google.com/webstore/detail/palette-creator/oolpphfmdmjbojolagcbgdemojhcnlod)
 - [material palette](https://www.materialpalette.com/) 
 - [Material Design Palette Generator](http://mcg.mbitson.com/#/)
@@ -30,6 +29,9 @@
 - http://www.freepik.com/ - Search engine for free vector graphics, PSDs, icons and photos
 - http://webalys.com/ - Free icons
 - [Abstract - Design Workflow for Sketch with Git-like branching](http://abstract.com/)
+- [Feather - Simply beautiful open source icons](https://feathericons.com/)
+- [unDraw - Open-source illustrations for any idea you can imagine and create.](https://undraw.co/)
+- [Unsplash - The internet’s source of freely usable images.](https://unsplash.com/)
 
 ## Collections
 
@@ -46,4 +48,4 @@
 
 - [uxbox - The open-source solution for design and prototyping](https://www.uxbox.io/)
  [Put Your Design System in a Coda.io Doc](https://blog.prototypr.io/put-your-design-system-in-a-coda-io-doc-8641f35ede25?gi=516ebc0ca3d0)
- 
+- [Figma - the collaborative interface design tool.](https://www.figma.com/)
